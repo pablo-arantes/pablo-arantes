@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+title: Pablo R. Arantes
+email: pablitoarantes@gmail.com
+author: Pablo R. Aramtes
+description: "Pablo Aramtes"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/NyName 
+    url: https://github.com/pablo-arantes 
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
+    url: mailto:pablitoarantes@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/NyName/
+    url: https://www.linkedin.com/in/pablo-ricardo-arantes/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
   - icon: twitter
     title: twitter
-    url: https://twitter.com/MyName
+    url: https://twitter.com/pablitoarantes
 
