@@ -9,4 +9,4 @@ description: |
 * __2019 – Current__
 * University of California, Riverside
 * Position: Postdoctoral Researcher under Dr. Giulia Palermo
-* Activities: Structural and conformational characterization of of proteins and nucleic acids involved in genome editing and regulation, which are promising against cancer and genetic diseases.
+* Activities: Structural and conformational characterization of of proteins and nucleic acids involved in genome editing and regulation, which are promising against cancer and genetic diseases. Please, see more information [here](https://palermolab.com/research/).
