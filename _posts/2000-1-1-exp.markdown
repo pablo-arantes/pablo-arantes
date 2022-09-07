@@ -6,7 +6,7 @@ title: "Postdoctoral Researcher"
 description: |
 ---
 
-* __2017 – Current__
+* __2019 – Current__
 * University of California, Riverside
-* Position: Postdoctoral Researcher
-* Activities: Project description...
+* Position: Postdoctoral Researcher under Dr. Giulia Palermo
+* Activities: Structural and conformational characterization of of proteins and nucleic acids involved in genome editing and regulation, which are promising against cancer and genetic diseases.
