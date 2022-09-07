@@ -2,10 +2,11 @@
 layout: default
 img: dna.jpg
 category: Experiences
-title: "Molecular Biology Bioinformatic Scientist"
+title: "Research Fellow"
 description: |
 ---
 
-* __2016 – 2017__
-* *Company Name*
-* Activities: Project description...
+* __2018 – 2019__
+* Federal University of Health Sciences of Porto Alegre - Brazil
+* Activities: Structural and conformational characterization of Nek1 protein and new pyrimidine inhibitors with therapeutic potential in the treatment of glioblastoma.
+* Supervisor: Dr. Dinara Jaqueline Moura
