@@ -7,7 +7,8 @@ description: 2014-2018
 ---
 
 * __2014 - 2018__
-* University of Rio Grande do Sul - Porto Alegre - RS - Brazil
+* Federal University of Rio Grande do Sul - Porto Alegre - Brazil
 * Structural and Dynamic Bases of Biomolecules on the N‐glycosylation pathway in Bacteria
 * Advisor: Dr. Hugo Verli
+* Scholarship from: CNPq and CAPES
 
