@@ -6,6 +6,6 @@ title: "List of Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/MyName)
-- [GoogleScholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Pablo-Arantes)
+- [GoogleScholar](https://scholar.google.com/citations?user=PtrGDD8AAAAJ&hl=en)
 
