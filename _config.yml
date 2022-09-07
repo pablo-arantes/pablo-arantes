@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
+url: https://pablo-arantes.github.io/pablo-arantes/
 title: Pablo R. Arantes
 email: pablitoarantes@gmail.com
-author: Pablo R. Aramtes
-description: "Pablo Aramtes"
+author: Pablo R. Arantes
+description: "My name is Pablo Ricardo Arantes, and I am a research scientist at the University of California Riverside, working in the field of biophysics."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
