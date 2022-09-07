@@ -6,4 +6,4 @@ title: "Cloud-Bind"
 description: Cloud-based Drug Binding Structure Prediction 
 ---
 
-* __Cloud-Bind__ is a repository where you can find a Jupyter notebook scripts for running EquiBind (geometric deep learning for drug binding structure prediction) and GNINA (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks) on Google Colab. The main goal of this work is to demonstrate how to harness the power of cloud-computing in a cheap and yet feasible fashion. More infomation here: [Cloud-Bind](https://github.com/pablo-arantes/Cloud-Bind).
+* __Cloud-Bind__ is a repository where you can find a Jupyter notebook scripts for running EquiBind (geometric deep learning for drug binding structure prediction) and GNINA (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks) on Google Colab. More infomation here: [Cloud-Bind](https://github.com/pablo-arantes/Cloud-Bind).
