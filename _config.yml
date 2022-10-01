@@ -33,9 +33,9 @@ social:
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/pablo-ricardo-arantes/
-#  - icon: file-pdf-o
-#    title: CV
-#    url: img/MyCV.pdf
+  - icon: file-pdf-o
+    title: CV
+    url: img/CV_Arantes.pdf
   - icon: twitter
     title: twitter
     url: https://twitter.com/pablitoarantes
