@@ -1,1 +1,10 @@
+---
+layout: default
+img: project3.jpg
+category: Projects
+title: "ParametrizANI"
+description: Dihedral Parametrization in the Cloud with TorchANI 
+---
+
+* __ParametrizANI__ is a repository where you can find a Jupyter notebook scripts to set up a protocol for parametrization of small molecules dihedrals for GAFF and OpenFF force fields using TorchANI as a reference, a PyTorch-based program for training/inference of ANI (ANAKIN-ME) deep learning models to obtain potential energy surfaces and other physical properties of molecular systems. More infomation here: [ParametrizANI](https://github.com/pablo-arantes/ParametrizANI).
 
